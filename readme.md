@@ -19,3 +19,5 @@ uv pip install drake cvxpy numpy matplotlib sympy
 ### Problem 2 - Invariant Set
 
 ![Problem 2 - Invariant Set](images/problem2_invariant_set.png)
+
+![Problem 2 - Preditior Pray](images/preditor_pray.png)
